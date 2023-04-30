@@ -1,0 +1,11 @@
+Model Information:
+* title:	Crystal Skull
+* source:	https://sketchfab.com/3d-models/crystal-skull-1861e32380a64d159a5232193661efce
+* author:	ralez (https://sketchfab.com/ralez)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Crystal Skull" (https://sketchfab.com/3d-models/crystal-skull-1861e32380a64d159a5232193661efce) by ralez (https://sketchfab.com/ralez) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
